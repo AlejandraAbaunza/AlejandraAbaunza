@@ -8,7 +8,7 @@
 
 ### Sobre mí
 
-Soy estudiante con experiencia en el desarrollo de aplicaciones web y backend. Me gusta trabajar en equipos colaborativos y aprender constantemente.
+Soy estudiante de ingeniería en proceso de aprender a desarrollar aplicaciones web y backend. Me gusta trabajar en equipos colaborativos y aprender constantemente de cada proyecto.
 
 ---
 
